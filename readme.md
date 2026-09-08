@@ -80,3 +80,18 @@ Success Metrics
 I believe strong engineers aren't defined by how many technologies they know, but by how well they can **reason about problems and build reliable systems.**
 
 
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+**Software Engineering · Backend · System Design · AI · Startups · SaaS · Open Source**
+
+If you're building something interesting, feel free to reach out.
+
+---
+
+<p align="center">
+  <i>Build. Learn. Ship. Repeat.</i>
+</p>
