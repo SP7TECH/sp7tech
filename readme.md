@@ -49,3 +49,34 @@ I'm currently going deeper into:
 * **System Design & Distributed Systems**
 * **Cloud & Kubernetes**
 * **AI Engineering & LLM applications**
+
+---
+
+## 🛠️ Things I Like Building
+
+Some areas I particularly enjoy working on:
+
+* SaaS applications
+* Fintech systems
+* HealthTech products
+* E-commerce platforms
+* AI-powered applications
+* Scalable APIs and backend services
+
+---
+
+## 💡 Engineering Philosophy
+
+```text
+Understand the fundamentals.
+Build things.
+Break things.
+Measure things.
+Learn why they broke.
+Build them better.
+Success Metrics
+```
+
+I believe strong engineers aren't defined by how many technologies they know, but by how well they can **reason about problems and build reliable systems.**
+
+
