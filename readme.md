@@ -2,11 +2,13 @@
 
 ### Senior Software Engineer · Full-Stack · Backend · AI Engineering
 
+[Website]("https://sp7tech.vercel.app/")
+
 I’m a **Senior Software Engineer** who enjoys building scalable web applications, backend systems, and developer-focused products.
 
 I started with frontend development and gradually moved deeper into **full-stack engineering, backend architecture, distributed systems, cloud infrastructure, and AI engineering**.
 
-I like understanding *how things work under the hood* — from JavaScript runtimes and HTTP to databases, queues, containers, and large-scale system design.
+I like understanding _how things work under the hood_ — from JavaScript runtimes and HTTP to databases, queues, containers, and large-scale system design.
 
 ---
 
@@ -46,9 +48,9 @@ I like understanding *how things work under the hood* — from JavaScript runtim
 
 I'm currently going deeper into:
 
-* **System Design & Distributed Systems**
-* **Cloud & Kubernetes**
-* **AI Engineering & LLM applications**
+- **System Design & Distributed Systems**
+- **Cloud & Kubernetes**
+- **AI Engineering & LLM applications**
 
 ---
 
@@ -56,12 +58,12 @@ I'm currently going deeper into:
 
 Some areas I particularly enjoy working on:
 
-* SaaS applications
-* Fintech systems
-* HealthTech products
-* E-commerce platforms
-* AI-powered applications
-* Scalable APIs and backend services
+- SaaS applications
+- Fintech systems
+- HealthTech products
+- E-commerce platforms
+- AI-powered applications
+- Scalable APIs and backend services
 
 ---
 
@@ -78,7 +80,6 @@ Success Metrics
 ```
 
 I believe strong engineers aren't defined by how many technologies they know, but by how well they can **reason about problems and build reliable systems.**
-
 
 ---
 
