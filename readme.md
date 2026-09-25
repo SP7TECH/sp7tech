@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer · Full-Stack · Backend · AI Engineering
 
-[Website]("https://sp7tech.vercel.app/")
+[Website](https://sp7tech.vercel.app/)
 
 I’m a **Senior Software Engineer** who enjoys building scalable web applications, backend systems, and developer-focused products.
 
